@@ -1,0 +1,70 @@
+body{
+	background-color: lime;
+}
+
+h1{ 
+	margin: 0 25px 0 25px;  
+	padding: 20px;
+	border: solid black 2px;
+	border-radius: 10px;
+	font-size: 78px;
+	text-align: center;
+	color: red;
+	background-color: lightblue;
+	
+}
+
+h2 {
+	margin: 0 25px 0 25px;
+    padding: 20px;
+    border: solid black 2px;
+    border-radius: 10px;
+	text-align: center;
+	color: darkblue;
+	background-color:lightpink
+}
+
+p{  
+	margin: 0 25px 0 25px;
+	padding: 20px;
+	border: solid black 2px;
+	border-radius: 10px;
+	text-align: center;
+	color: darkblue;
+	background-color: rgb(250, 158, 135);
+}
+
+img{
+	margin-left: 25px 25px 25px 300px;
+	border: solid black 2px;
+	border-color: brown;
+	border-radius: 10px;
+}
+
+
+div{
+
+	margin: 25px;
+	padding: 50px;
+	background-color: red;
+	border: solid 2px;
+	border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
